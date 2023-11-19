@@ -1,4 +1,12 @@
 # Customer-Segmentation-in-Marketing-with-Python
+For this project following Python libraries used:
+* pandas 
+* NumPy 
+* Matplotlib 
+* seaborn 
+* scipy
+* sklearn
+
 ## Exploratory Data Analysis
 Correlation between variables 
 ![image](https://github.com/Rafia-Shaikh-eng/Customer-Segmentation-in-Marketing-with-Python/assets/64796657/795e1d1f-bf1b-443b-86f5-229e0a3202c7)
